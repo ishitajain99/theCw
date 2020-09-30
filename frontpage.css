@@ -1,0 +1,103 @@
+h4{
+  font-family: 'Courier Prime', monospace;
+  text-align: left;
+  margin-left: 5rem;
+
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  margin:5rem 0 0 5rem;
+font-size: 5rem;
+}
+.starter{
+  background-image: url('images/back.jpeg');
+}
+.starter_image{
+/*position: absolute;
+margin-left: 65%;
+margin-top: 3rem;*/
+height: 20rem;
+width: 20em;
+}.berry{
+  margin-top: 3rem;
+}
+.icon{
+  height: 3rem;
+  margin-top: 1rem;
+  position: absolute;
+  margin-left: 20rem;
+}
+.line{
+  height:10rem;
+  width:35rem;
+  margin-left: 4.5rem;
+}
+.eggless{
+  margin-top: 3rem;
+  font-family: 'Courier Prime', monospace;
+  text-align: left;
+  margin-left:0
+
+}
+.eggless_image{
+  height: 3rem;
+  width: 3.5rem;
+  margin-top: 2rem;
+  margin-left: 12rem;
+}
+.im{
+  height: 10rem;
+  width: 10rem;
+  padding: 2rem;
+}
+.him{
+  height: 3rem;
+  width: 4rem;
+  margin-left: 3rem;
+  margin-top: 3rem
+
+}
+.himm{
+font-size: 3rem;
+padding-top: 3rem;
+margin-left: 0;
+font-family: 'Dancing Script', cursive;
+}
+a{
+  font-family: 'Courier Prime', monospace;
+}
+td{
+  width: 20rem;
+}
+#footer{
+  text-align: center;
+  padding: 0 10%;
+}
+
+.Ingredients{
+padding-left: 3rem;
+}
+.imgs{
+  padding-top: 5rem;
+}
+.links{
+  background-image: url("images/bg.jpeg");
+}
+.lastpart{
+  height: 10rem;
+  background-image: url("images/back.jpeg");
+  text-align: center;
+  padding: 3rem;
+}
+@media (max-width:1090px)  {
+  .starter_image{
+    position: static;
+    margin-left: 10rem;
+  }
+  h1{
+    text-align: center;
+  }
+  .imgs{
+    margin-left: 11rem;
+  }
+}
